@@ -1,5 +1,5 @@
 # Sentiment-Analysis-using-RoBERTa
-Sentiment Analysis project using Huggingface RoBERTa is a system that takes raw data, regex for preprocessing,  RoBERTa for sentiment analysis, Django for the backend
+Sentiment Analysis project using Huggingface RoBERTa is a system that takes raw data, regex for preprocessing,  RoBERTa for sentiment analysis, Django API, will provide analytics on both users data and profile data of twitter. 
 
 
 ## Getting Started
